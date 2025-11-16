@@ -78,8 +78,8 @@ const Contact = () => {
       <div className="relative z-10 container mx-auto px-4 py-12 md:py-20">
         {/* Header Section */}
         <div className="text-center mb-12 md:mb-16">
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-            Get In{" "}
+          <h1 className="text-4xl md:text-6xl font-bold text-white mt-14 mb-4">
+            Get In
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-500">
               Touch
             </span>

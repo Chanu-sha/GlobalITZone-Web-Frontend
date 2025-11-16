@@ -71,7 +71,7 @@ function Hero() {
       >
         {/* Title */}
         <motion.h1
-          className="font-extrabold leading-tight   mb-6"
+          className="font-extrabold leading-tight mt-10  mb-6"
           style={{
             fontSize: "clamp(2.5rem,5vw,4.5rem)",
             color: "#fff",

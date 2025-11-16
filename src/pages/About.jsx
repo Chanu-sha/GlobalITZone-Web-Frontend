@@ -49,7 +49,7 @@ function About() {
             transition={{ delay: 0.2, duration: 0.8 }}
             viewport={{ once: true }}
           >
-            <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
+            <h2 className="text-4xl mt-14 md:text-5xl lg:text-6xl font-bold text-white mb-6">
               About <span className="text-transparent italic bg-clip-text bg-gradient-to-r from-red-500 to-red-600">Global IT Zone</span>
             </h2>
             <div className="w-32 h-1 bg-gradient-to-r from-red-500 to-red-600 mx-auto mb-8"></div>
